@@ -3,4 +3,7 @@
 const fs = require("fs");
 
 class Field {
+  constructor() {
+    []
+  }
 }
