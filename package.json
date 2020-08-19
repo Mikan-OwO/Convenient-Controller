@@ -2,7 +2,7 @@
   "name": "convenient-controller",
   "version": "1.0.0",
   "description": "package",
-  "main": "index.js",
+  "main": "./src/index",
   "scripts": {
     "test": "node index.js"
   },
