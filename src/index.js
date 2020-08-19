@@ -1,5 +1,5 @@
 const fs = require("fs");
 
 module.exports = {
-  Controller: require("./controller/controller"),
+  Controller: require("./controller/Controller"),
 }
